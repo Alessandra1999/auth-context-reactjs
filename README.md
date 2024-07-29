@@ -13,3 +13,5 @@ Instruções:
 - Crie o Contexto: Crie um novo arquivo AuthContext.jsx e defina um contexto chamado AuthContext.- Forneça o Contexto: No componente raiz (App.jsx), envolva os componentes filhos com o provedor AuthContext.Provider e forneça um estado para o usuário (logado/deslogado).
 - Consuma o Contexto: Crie dois componentes, LoginButton.jsx e LogoutButton.jsx, que consumam o contexto AuthContext e alterem o estado de autenticação do usuário.
 - Exiba o Estado: Crie um componente UserStatus.jsx que consuma o contexto AuthContext e exiba uma mensagem informando se o usuário está logado ou deslogado.
+
+### Você pode acessar através do link: https://alessandra1999.github.io/auth-context-reactjs/
